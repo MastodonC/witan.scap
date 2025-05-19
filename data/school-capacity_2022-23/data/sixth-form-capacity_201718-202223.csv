@@ -1,0 +1,821 @@
+﻿time_period,time_identifier,geographic_level,country_code,country_name,region_code,region_name,old_la_code,new_la_code,la_name,schools_with_sixth_form_capacity_reported,reported_sixth_form_places,sixth_form_pupils_on_roll
+202223,Academic year,National,E92000001,England,,,,,,1989,538765,415162
+202223,Academic year,Regional,E92000001,England,E12000001,North East,,,,76,20390,14279
+202223,Academic year,Regional,E92000001,England,E12000002,North West,,,,174,43883,33274
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,,,,148,41397,30296
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,,,,184,46513,34707
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,,,,252,57409,43902
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,,,,239,68051,52008
+202223,Academic year,Regional,E92000001,England,E12000007,London,,,,400,118163,97756
+202223,Academic year,Regional,E92000001,England,E12000008,South East,,,,325,88481,70620
+202223,Academic year,Regional,E92000001,England,E12000009,South West,,,,191,54478,38320
+202223,Academic year,Regional,E92000001,England,E13000001,Inner London,,,,129,34082,30414
+202223,Academic year,Regional,E92000001,England,E13000002,Outer London,,,,271,84081,67342
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,8,2060,1545
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,12,3689,2460
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,9,1893,1605
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,4,1366,799
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,4,1045,1034
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,2,510,196
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,3,925,569
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,1,220,169
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,3,796,608
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,13,3178,2257
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,1,300,289
+202223,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,16,4408,2748
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,1,97,95
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,27,5913,5174
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,4,1025,919
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,10,2254,1560
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,15,4177,3221
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,5,1548,1138
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,x,x,x
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,10,2307,1404
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,3,1020,960
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,1,180,151
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,1,150,150
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,1,300,302
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,z,z,z
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,11,2988,2780
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,2,550,432
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,2,650,157
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,4,1420,720
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,14,4183,3236
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,6,1650,882
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,1,230,150
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,16,4339,3565
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,14,3012,2424
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,15,3552,2215
+202223,Academic year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,11,2338,1639
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000016,Barnsley,1,300,270
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,16,3391,1672
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,8,2436,1730
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000019,Sheffield,14,4565,4141
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,18,4503,3424
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,5,1578,1330
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,6,2148,1451
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,21,5763,5180
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,7,2101,875
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",4,1250,1229
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,13,3492,1896
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,2,706,290
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,4,608,182
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,24,6942,4991
+202223,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,5,1614,1635
+202223,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,26,5498,5068
+202223,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,10,2363,1611
+202223,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,16,6282,4079
+202223,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,4,878,711
+202223,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,z,z,z
+202223,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,41,9635,7142
+202223,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,9,2021,1531
+202223,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,36,9545,6905
+202223,Academic year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,20,4219,3268
+202223,Academic year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,22,6072,4392
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,59,13642,10226
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,21,3772,3610
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,4,964,623
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,13,2828,2124
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,10,2620,1949
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,17,4008,3381
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,19,4268,2949
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,40,8076,5969
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,4,1200,696
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",2,440,316
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,24,5515,3826
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,7,1272,911
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,7,1716,1568
+202223,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,25,7088,5754
+202223,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,3,800,530
+202223,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,7,2029,1251
+202223,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,10,3039,2489
+202223,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,18,5104,3200
+202223,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,13,3430,2741
+202223,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,54,15265,11685
+202223,Academic year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,10,2998,2802
+202223,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,4,1350,1071
+202223,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,79,22702,17513
+202223,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,24,6549,5154
+202223,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,17,4785,3572
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,36,8942,7959
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,11,3968,3420
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,8,2565,1377
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,5,1424,841
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,7,1928,1818
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,1,300,215
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,2,330,304
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,7,1870,1080
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,9,2092,1818
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,9,2664,2348
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,8,2352,1789
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,15,3480,2844
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,8,2286,2093
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,92,26916,20246
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,20,4871,3525
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,4,968,1031
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,34,8308,6434
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,28,7263,6835
+202223,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,21,5954,4643
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,z,z,z
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,13,3065,2358
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",10,2745,2841
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,7,1987,1574
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,12,3054,2343
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,14,4714,3608
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",16,4746,3461
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,20,5724,4294
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,8,2600,965
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,20,5570,3265
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,16,4479,2499
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,7,1940,1255
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,12,3210,1706
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,26,8377,6522
+202223,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,10,2267,1629
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,E09000001,City of London,z,z,z
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,10,2282,2731
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,14,2948,2424
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,9,2083,1693
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,7,1500,984
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,4,1160,1104
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,14,3142,2243
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,6,1820,1405
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,15,3471,3174
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,14,4600,4110
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,11,3545,3291
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,11,2860,2508
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,6,1995,2004
+202223,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,8,2676,2743
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,11,3542,2752
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,13,5007,2741
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,24,6957,5760
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,13,4621,3886
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,15,4660,3782
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,18,7242,5500
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,16,5051,4114
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,16,5317,4549
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,19,5697,4003
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,11,2808,2628
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,6,1890,1647
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,22,5554,4110
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,19,5075,3899
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,10,2881,2679
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,8,1870,1553
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,18,7146,6009
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,10,2260,1836
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,15,4845,4429
+202223,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,7,1658,1465
+202122,Academic year,National,E92000001,England,,,,,,2000,538168,415185
+202122,Academic year,Regional,E92000001,England,E12000001,North East,,,,75,20328,14371
+202122,Academic year,Regional,E92000001,England,E12000002,North West,,,,178,44792,33688
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,,,,149,41218,30520
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,,,,185,47215,34977
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,,,,252,57593,44245
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,,,,239,67846,52133
+202122,Academic year,Regional,E92000001,England,E12000007,London,,,,403,118089,96136
+202122,Academic year,Regional,E92000001,England,E12000008,South East,,,,327,86775,70084
+202122,Academic year,Regional,E92000001,England,E12000009,South West,,,,192,54312,39031
+202122,Academic year,Regional,E92000001,England,E13000001,Inner London,,,,131,34077,29909
+202122,Academic year,Regional,E92000001,England,E13000002,Outer London,,,,272,84012,66227
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,8,2060,1542
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,12,3689,2586
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,8,1883,1504
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,4,1314,809
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,4,1045,1036
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,2,510,266
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,3,925,569
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,1,220,160
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,3,796,579
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,13,3178,2248
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,1,300,308
+202122,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,16,4408,2764
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,1,97,78
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,27,5900,5120
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,5,1325,921
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,10,2314,1578
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,15,4177,3241
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,6,1748,1183
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,x,x,x
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,11,2427,1373
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,3,1020,914
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,1,180,134
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,1,150,114
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,1,300,308
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,z,z,z
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,11,3012,2732
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,2,550,450
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,2,650,168
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,4,1420,833
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,15,4303,3448
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,6,1650,843
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,1,230,170
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,16,4339,3631
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,14,3010,2571
+202122,Academic year,Local authority,E92000001,England,E12000002,North West,909,E10000006,Cumbria,26,5990,3878
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000016,Barnsley,1,300,240
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,14,3069,1678
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,8,2436,1689
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000019,Sheffield,13,4352,4086
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,19,4908,3725
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,5,1578,1345
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,6,2063,1489
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,24,5877,5026
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,7,2101,959
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",4,1250,1256
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,13,3382,1965
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,2,706,275
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,4,640,187
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,24,6942,5051
+202122,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,5,1614,1549
+202122,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,26,5334,5042
+202122,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,10,2403,1582
+202122,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,16,6695,4337
+202122,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,4,878,781
+202122,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,z,z,z
+202122,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,41,9635,6969
+202122,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,10,2356,1620
+202122,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,36,9545,7102
+202122,Academic year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,20,4297,3249
+202122,Academic year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,22,6072,4295
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,59,13587,10332
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,21,3772,3514
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,4,964,701
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,12,3034,2143
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,10,2460,1957
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,17,4008,3394
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,19,4269,2803
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,40,8177,6019
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,4,1200,707
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",3,540,347
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,24,5515,3957
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,7,1272,886
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,7,1716,1649
+202122,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,25,7079,5836
+202122,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,3,800,580
+202122,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,6,1805,1287
+202122,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,10,3039,2368
+202122,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,17,4840,3369
+202122,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,13,3430,2791
+202122,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,55,15377,11808
+202122,Academic year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,10,2998,2808
+202122,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,4,1350,961
+202122,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,78,21921,17244
+202122,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,25,7276,5165
+202122,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,18,5010,3752
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,36,8997,8086
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,11,3968,3325
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,8,2189,1453
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,5,1424,825
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,7,1928,1899
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,1,250,207
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,2,330,307
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,7,1870,1218
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,9,2291,1871
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,9,2664,2282
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,8,2352,1702
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,15,3530,2741
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,8,2286,2131
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,91,25368,19800
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,18,4371,3497
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,4,968,984
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,35,8398,6297
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,31,7397,6832
+202122,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,22,6194,4627
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,z,z,z
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,13,3052,2430
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",10,2745,2820
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,7,1889,1582
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,13,3074,2386
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,14,4824,3656
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",16,4746,3643
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,20,5609,4375
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,7,2350,941
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,21,5720,3389
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,16,4509,2614
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,7,1940,1243
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,12,3210,1924
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,26,8377,6449
+202122,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,10,2267,1579
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,E09000001,City of London,z,z,z
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,10,2282,2640
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,13,2767,2431
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,9,2083,1678
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,6,1380,854
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,4,1160,1129
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,16,3642,2248
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,6,1820,1620
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,15,3471,2944
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,15,4166,3908
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,11,3605,3290
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,12,3080,2426
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,6,1995,2066
+202122,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,8,2626,2675
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,12,3642,2525
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,13,5007,2688
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,24,6957,5681
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,13,4621,3927
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,15,4660,3818
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,18,7242,5529
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,17,5291,4054
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,16,5317,4399
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,19,5564,3976
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,11,2808,2413
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,6,1840,1691
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,22,5554,3974
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,19,5075,3864
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,10,2881,2658
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,8,1734,1564
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,18,7146,5980
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,10,2270,1657
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,15,4845,4415
+202122,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,6,1558,1414
+202021,Academic year,National,E92000001,England,,,,,,2006,535357,407060
+202021,Academic year,Regional,E92000001,England,E12000001,North East,,,,78,20575,14453
+202021,Academic year,Regional,E92000001,England,E12000002,North West,,,,181,45826,33825
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,,,,151,41096,30413
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,,,,184,46556,34037
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,,,,247,55806,43529
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,,,,239,67323,50912
+202021,Academic year,Regional,E92000001,England,E12000007,London,,,,407,118313,92256
+202021,Academic year,Regional,E92000001,England,E12000008,South East,,,,328,86540,69064
+202021,Academic year,Regional,E92000001,England,E12000009,South West,,,,191,53322,38571
+202021,Academic year,Regional,E92000001,England,E13000001,Inner London,,,,132,34322,28418
+202021,Academic year,Regional,E92000001,England,E13000002,Outer London,,,,275,83991,63838
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,9,2160,1640
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,12,3639,2582
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,9,1994,1492
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,4,1314,801
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,4,1045,1086
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,2,510,279
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,3,925,540
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,1,220,169
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,3,796,566
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,14,3296,2150
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,1,268,343
+202021,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,16,4408,2805
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,1,97,42
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,27,6356,5164
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,5,1325,991
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,10,2314,1619
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,15,4177,3333
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,6,1748,1206
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,x,x,x
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,12,2577,1246
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,3,1020,901
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,1,180,129
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,1,150,127
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,2,500,363
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,z,z,z
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,11,2903,2549
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,2,550,452
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,2,650,190
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,4,1420,907
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,16,4364,3614
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,6,1650,809
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,1,230,163
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,16,4285,3652
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,14,3223,2513
+202021,Academic year,Local authority,E92000001,England,E12000002,North West,909,E10000006,Cumbria,26,6107,3855
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000016,Barnsley,1,300,255
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,14,3068,1679
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,8,2436,1709
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000019,Sheffield,13,4352,4098
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,20,5004,3637
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,5,1578,1425
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,6,1930,1546
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,25,5860,4908
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,7,2101,994
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",4,1250,1202
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,13,3382,1858
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,2,706,246
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,4,640,216
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,24,6934,5017
+202021,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,5,1555,1623
+202021,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,26,5201,4969
+202021,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,10,2403,1613
+202021,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,16,6695,4342
+202021,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,4,750,767
+202021,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,z,z,z
+202021,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,41,9410,6704
+202021,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,9,2257,1525
+202021,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,36,9526,7020
+202021,Academic year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,20,4242,3075
+202021,Academic year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,22,6072,4022
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,57,12810,10374
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,21,3772,3461
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,4,964,709
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,12,3034,2074
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,10,2460,2054
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,15,3297,3208
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,19,4167,2731
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,40,8090,5773
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,4,1200,659
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",3,540,395
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,24,5512,3913
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,7,1259,858
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,6,1470,1589
+202021,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,25,7231,5731
+202021,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,3,800,547
+202021,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,6,1805,1335
+202021,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,9,2741,2116
+202021,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,17,4840,3501
+202021,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,13,3740,2743
+202021,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,54,15138,11651
+202021,Academic year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,10,2778,2669
+202021,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,3,950,724
+202021,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,78,21795,16699
+202021,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,27,7576,5109
+202021,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,19,5160,3818
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,35,8756,7792
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,12,4190,3301
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,8,2119,1567
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,5,1424,892
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,7,1928,1829
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,1,300,177
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,2,330,288
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,7,1870,1180
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,9,2322,1898
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,9,2688,2366
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,8,2352,1626
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,15,3480,2522
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,8,2244,1980
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,91,24956,19389
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,18,4371,3428
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,4,968,956
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,36,8648,6152
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,31,7400,6946
+202021,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,22,6194,4775
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,z,z,z
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,12,2921,2304
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",9,2700,2660
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,7,1889,1503
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,12,2574,1980
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,14,4754,3700
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",15,4606,3559
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,21,5796,4415
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,7,2220,940
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,21,5720,3527
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,16,4513,2590
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,7,1940,1404
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,12,3210,1949
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,28,8212,6370
+202021,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,10,2267,1670
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,E09000001,City of London,z,z,z
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,10,2282,2414
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,13,2767,2433
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,9,2083,1569
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,6,1380,775
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,4,1160,1131
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,16,3622,2124
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,6,1820,1467
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,16,3671,2638
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,15,4166,3714
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,11,3545,3294
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,12,3080,2359
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,6,2120,1948
+202021,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,8,2626,2552
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,13,3782,2367
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,13,5007,2471
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,24,6957,5441
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,13,4621,3707
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,15,4660,3730
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,18,7242,5462
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,18,5400,3945
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,16,5257,4273
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,19,5557,3909
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,11,2833,2209
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,6,1840,1654
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,22,5554,3794
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,19,5075,3631
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,10,2881,2461
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,8,1734,1473
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,17,6798,5978
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,10,2030,1559
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,15,4845,4322
+202021,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,8,1918,1452
+201819,Academic year,National,E92000001,England,,,,,,2039,533624,376973
+201819,Academic year,Regional,E92000001,England,E12000001,North East,,,,78,20028,13795
+201819,Academic year,Regional,E92000001,England,E12000002,North West,,,,194,47591,32108
+201819,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,,,,167,44109,31606
+201819,Academic year,Regional,E92000001,England,E12000004,East Midlands,,,,190,48433,32485
+201819,Academic year,Regional,E92000001,England,E12000005,West Midlands,,,,250,56196,40027
+201819,Academic year,Regional,E92000001,England,E12000006,East of England,,,,239,66129,46832
+201819,Academic year,Regional,E92000001,England,E12000007,London,,,,390,110530,79815
+201819,Academic year,Regional,E92000001,England,E12000008,South East,,,,331,85794,63735
+201819,Academic year,Regional,E92000001,England,E12000009,South West,,,,200,54814,36570
+201819,Academic year,Regional,E92000001,England,E13000001,Inner London,,,,132,33089,24899
+201819,Academic year,Regional,E92000001,England,E13000002,Outer London,,,,258,77441,54916
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,8,2100,1544
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,12,3397,2371
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,9,1989,1482
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,4,1048,782
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,5,1125,972
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,2,510,251
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,3,839,643
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,1,220,186
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,3,796,525
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,14,3296,1972
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,1,300,264
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,16,4408,2803
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,1,97,67
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,28,6464,4770
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,5,1325,877
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,10,2314,1694
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,15,4705,3067
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,8,1880,1217
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,x,x,x
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,11,2277,1101
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,3,987,835
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,2,330,172
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,2,300,249
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,2,500,351
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,1,260,43
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,11,2948,2472
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,1,250,37
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,4,794,447
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,6,1860,952
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,21,5098,3545
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,6,1475,814
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,1,230,145
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,16,4355,3273
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,14,3303,2330
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,909,E10000006,Cumbria,26,5839,3650
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000016,Barnsley,1,300,210
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,15,2963,1758
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,8,2436,1684
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000019,Sheffield,14,4706,3794
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,25,5981,4825
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,8,2530,1854
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,6,2142,1540
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,27,5997,4858
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,7,2101,1060
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",4,1300,996
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,14,3424,2084
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,2,706,308
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,5,777,233
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,26,7166,4998
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,5,1580,1404
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,26,5201,4531
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,12,2673,1742
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,18,7081,4435
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,4,1028,714
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,z,z,z
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,42,10558,6201
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,10,2547,1443
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,36,9051,6757
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,928,E10000021,Northamptonshire,42,10294,6662
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,55,12736,9559
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,21,3741,3060
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,4,928,745
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,14,3130,2121
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,10,2460,1879
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,12,2662,2584
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,19,4150,2434
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,43,8520,5425
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,4,1200,723
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",4,760,459
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,25,5727,3663
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,8,1454,941
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,6,1470,1338
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,25,7258,5096
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,3,800,419
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,4,1480,857
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,10,3089,2266
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,18,4670,3137
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,13,3740,2372
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,53,14681,10453
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,10,2778,2333
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,4,1150,622
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,78,21394,15682
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,26,7343,4618
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,20,5004,4073
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,36,8736,7075
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,12,4190,3167
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,10,2600,1539
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,6,1500,995
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,7,2795,1610
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,1,300,119
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,2,330,243
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,7,1905,928
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,9,2223,1773
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,9,2465,2180
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,8,2175,1329
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,15,3397,2265
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,8,1951,1944
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,91,23488,17848
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,18,4551,3068
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,4,1235,998
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,35,8082,5651
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,31,7677,6454
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,22,6194,4549
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,z,z,z
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,13,2897,2138
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",9,2700,2493
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,7,2089,1382
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,15,3354,1706
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,14,4574,3566
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",17,5414,3562
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,22,5820,4091
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,5,1340,690
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,23,6240,3452
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,18,4887,2640
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,7,1940,1278
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,13,3375,2025
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,27,7917,5991
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,10,2267,1556
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,E09000001,City of London,z,z,z
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,10,2282,2261
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,14,3018,2060
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,7,1270,1253
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,6,1280,878
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,4,1200,1030
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,16,3772,1776
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,5,1460,1149
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,16,3576,2267
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,16,4194,3102
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,11,3495,3062
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,12,2966,2253
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,7,2105,1694
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,8,2471,2114
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,13,3882,2142
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,13,4487,2213
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,23,6255,4827
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,13,4471,3382
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,15,4660,3354
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,18,7293,5351
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,17,5409,3642
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,16,5232,3720
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,19,5557,3746
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,11,2808,1929
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,6,1804,1509
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,22,5494,3533
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,19,5103,3329
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,10,2893,2147
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,8,1734,1410
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,6,2386,2246
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,10,1940,1121
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,14,4625,4155
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,5,1408,1160
+201718,Academic year,National,E92000001,England,,,,,,1959,506942,360139
+201718,Academic year,Regional,E92000001,England,E12000001,North East,,,,72,18470,12261
+201718,Academic year,Regional,E92000001,England,E12000002,North West,,,,193,45792,32772
+201718,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,,,,161,40538,28839
+201718,Academic year,Regional,E92000001,England,E12000004,East Midlands,,,,187,45467,33150
+201718,Academic year,Regional,E92000001,England,E12000005,West Midlands,,,,239,53180,36415
+201718,Academic year,Regional,E92000001,England,E12000006,East of England,,,,223,62894,44492
+201718,Academic year,Regional,E92000001,England,E12000007,London,,,,353,101236,71202
+201718,Academic year,Regional,E92000001,England,E12000008,South East,,,,330,84259,63636
+201718,Academic year,Regional,E92000001,England,E12000009,South West,,,,201,55106,37372
+201718,Academic year,Regional,E92000001,England,E13000001,Inner London,,,,115,29189,20953
+201718,Academic year,Regional,E92000001,England,E13000002,Outer London,,,,238,72047,50249
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,8,2296,1557
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,12,3487,2291
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,9,1989,1505
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,4,1048,801
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,6,1375,1005
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,2,599,283
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,3,844,672
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,x,x,x
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,1,150,0
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,9,1934,1072
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,2,456,322
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,16,4292,2753
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,1,46,69
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,29,6636,5013
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,5,1260,939
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,10,2257,1806
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,16,4100,3237
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,6,1400,707
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,x,x,x
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,12,2457,1218
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,3,1080,784
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,2,330,177
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,1,160,154
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,2,500,361
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,1,260,114
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,11,3008,2492
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,x,x,x
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,5,1059,543
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,6,1470,1013
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,23,5502,3820
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,5,1375,784
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,x,x,x
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,16,4355,3397
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,13,3043,2376
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,909,E10000006,Cumbria,26,5494,3768
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000016,Barnsley,1,300,205
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,15,3292,1916
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,7,1940,1476
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000019,Sheffield,9,3037,2283
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,30,6993,5047
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,6,1895,1431
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,5,1885,1487
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,28,5198,5032
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,8,2271,1284
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",4,1300,864
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,15,3674,2120
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,2,706,332
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,5,777,226
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,26,7270,5136
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,x,x,x
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,27,5233,4668
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,11,2340,1717
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,18,7181,4969
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,4,639,702
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,x,x,x
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,38,8407,5857
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,9,2470,1379
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,38,9049,7173
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,928,E10000021,Northamptonshire,42,10148,6685
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,60,13743,9614
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,21,3727,3096
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,5,978,651
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,13,2727,2085
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,9,2220,1415
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,x,x,x
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,19,4235,2359
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,42,8693,5556
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,x,x,x
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",6,1109,474
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,25,5846,3783
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,8,1454,1076
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,6,1540,1309
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,25,6908,4997
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,3,800,430
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,2,508,667
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,9,2709,2007
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,14,3900,2547
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,13,3710,2403
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,52,14426,10320
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,10,2778,2340
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,3,1000,543
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,71,20678,14416
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,26,7412,4604
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,20,4973,4215
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,36,8616,6982
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,12,4190,3184
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,11,2820,1686
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,5,1244,954
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,6,1869,1234
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,1,150,53
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,x,x,x
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,6,1675,1024
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,9,2158,1706
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,9,2465,2127
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,9,2162,1412
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,15,3427,2190
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,8,1951,1889
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,91,23683,18195
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,17,4251,2915
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,7,2035,1104
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,35,8232,5638
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,31,7137,6617
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,22,6194,4726
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,z,z,z
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,13,2839,2160
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",8,2450,2160
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,7,2089,1504
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,12,2609,1127
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,835,E10000009,Dorset,18,5439,4289
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,836,E06000029,Poole,6,2374,1409
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,837,E06000028,Bournemouth,8,2283,1501
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,22,6012,4148
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,5,1340,821
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,24,6519,3895
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,19,5052,2919
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,8,2190,1359
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,14,3623,2192
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,27,7917,6162
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,10,2370,1726
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,E09000001,City of London,z,z,z
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,9,2080,2022
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,14,3025,2013
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,8,2133,1389
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,6,1280,989
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,x,x,x
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,13,2860,1803
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,4,1210,1027
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,16,3600,2223
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,16,4194,2859
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,9,2915,2401
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,5,1316,625
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,7,2105,1703
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,8,2471,1899
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,11,3361,2304
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,12,4602,2216
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,22,6535,4717
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,13,4471,3393
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,15,4660,3288
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,18,7293,5352
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,17,5132,3613
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,15,4530,3599
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,9,2898,1187
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,11,2883,1879
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,6,1840,1523
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,22,5494,3697
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,19,4783,3103
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,10,2820,2058
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,8,1685,1380
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,4,1876,1362
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,10,2015,986
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,14,4555,4112
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,2,614,480

@@ -1,0 +1,384 @@
+School capacity
+Academic year 2023/24
+
+Description
+
+This document describes the data included in the ‘School Capacity: Academic Year 2023/24’ Official Statistics release’s underlying data files. This data is released under the terms of the Open Government License and is intended to meet at least 3 stars for Open Data.
+
+The methodology accompanying this release should be referenced alongside this data. It provides information on the data sources, their coverage and quality as well as explaining methodology used in producing the data.
+
+A description of how the school place planning estimates have been derived and how to interpret them is also provided in technical guidance document accompanying this release. Users should read this technical guidance to understand the practical applications and limitations of the data.
+
+Coverage
+
+This release reports on school capacity information in state-funded primary and secondary schools in England in the academic year 2023/24, as of 1 May 2024. Data are as reported by local authorities in the annual School Capacity (SCAP) Survey.
+
+Information is included on:
+
+• The numbers of primary and secondary school places from 2009/10 to 2023/24 , including unfilled school places and pupils in places that exceed their school's capacity (2019/20 data is not available due to the cancellation of the 2020 SCAP survey due to Covid-19);
+
+• Sixth form capacity in schools, where reported, from 2017/18 to 2023/24 (2019/20 data is not available due to the cancellation of the 2020 SCAP survey due to Covid-19);
+
+• Local authorities’ pupil forecasts up to 2028/29  at primary level and 2030/31 at secondary level; including places to be funded through housing developer contributions (HDCs) and housing infrastructure fund (HIF)
+
+• Local authority planned changes to school places to 2026/27, including additional, bulge (temporary additional places for large cohorts) and places to remove;
+
+• The department ‘s modelled estimate’s of future number of places needed, up to 2028/29 at primary level and 2030/31 at secondary level.
+
+This publication also includes Official Statistics in Development for special school capacity, the capacity of special educational needs (SEN) unit and resourced provision in mainstream schools, and local authority forecast demand for specialist provision.
+
+File formats and conventions
+
+The following conventions are used throughout the underlying data.
+‘z’ Not applicable.
+‘x’ Not available.
+
+Data files
+
+Capacity - national
+
+Filename: capacity_national_200910-202324.csv
+Geographic levels: National
+Time period: 2009/10 to 2023/24
+Content summary: Total number of school places, which includes sixth form places and excludes nursery places. Includes yearly and long-term change in the number of school places. Includes number of pupils on roll from the May 2024 School Census.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                              |  Variable description
+-----------------------------------------  |  ------------------------------------------------------------------------------------
+at_or_over_capacity_schools                |  Number of schools at or in excess of capacity
+count_schools                              |  Number of schools
+education_phase                            |  School phase
+percent_at_or_over_capacity_schools        |  Percentage of schools at or in excess of capacity
+percent_pupils_over_capacity               |  Pupils in places that exceed their school's capacity as a percentage of total places
+percent_under_capacity_schools             |  Percentage of schools with one or more unfilled places
+percent_unfilled_places                    |  Unfilled places as a percentage of total places
+pupils_on_roll                             |  Number of pupils on roll
+pupils_over_capacity                       |  Pupils in places that exceed their school's capacity
+school_places                              |  Number of school places
+school_places_change_from_200910           |  Net change in number of school places since 2010
+school_places_change_from_previous_survey  |  Net change in number of school places since previous SCAP survey
+under_capacity_schools                     |  Number of schools with one or more unfilled places
+unfilled_places                            |  Unfilled places
+
+Footnotes:
+
+1. Includes mainstream state schools with capacity in any of the year groups from reception to year 11 on 1 May for the relevant academic year.
+2. Primary places include all reported capacity in primary and middle deemed primary schools. Capacity excludes nursery places.
+3. Secondary places include all reported capacity in secondary, middle-deemed secondary and all-through schools. Capacity includes sixth form places.
+4. The 2020/21 net change in school places is not comparable to previous years, as the time period for the change is two years rather than one year.
+5. Number of pupils on roll for reception year group and above. Taken from the May school census for the relevant academic year, or gathered during the school capacity collection if census data was not available for a school.
+6. A school is identified as at or in excess of capacity when their pupil number on roll is greater than or equal to capacity.
+7. 2019/20 data not available due to the cancellation of the 2020 School Capacity survey due to COVID-19.
+8. Number of pupils in places that exceed their school's capacity is the difference between school places and number of pupils on roll, for schools where the number of pupils on roll is higher than the school’s reported capacity. Calculated at school level and then summed to national, regional or local authority level.
+
+
+Capacity - national, regional, local authority
+
+Filename: capacity_national-regional-la_200910-202324.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2009/10 to 2023/24
+Content summary: Total number of school places, which includes sixth form places and excludes nursery places. Includes number of pupils on roll from the May 2024 School Census.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                        |  Variable description
+-----------------------------------  |  ------------------------------------------------------------------------------------
+at_or_over_capacity_schools          |  Number of schools at or in excess of capacity
+count_schools                        |  Number of schools
+education_phase                      |  School phase
+percent_at_or_over_capacity_schools  |  Percentage of schools at or in excess of capacity
+percent_pupils_over_capacity         |  Pupils in places that exceed their school's capacity as a percentage of total places
+percent_under_capacity_schools       |  Percentage of schools with one or more unfilled places
+percent_unfilled_places              |  Unfilled places as a percentage of total places
+pupils_on_roll                       |  Number of pupils on roll
+pupils_over_capacity                 |  Pupils in places that exceed their school's capacity
+school_places                        |  Number of school places
+under_capacity_schools               |  Number of schools with one or more unfilled places
+unfilled_places                      |  Unfilled places
+
+Footnotes:
+
+1. Includes mainstream state schools with capacity in any of the year groups from reception to year 11 on 1 May for the relevant academic year.
+2. Primary places include all reported capacity in primary and middle deemed primary schools. Capacity excludes nursery places.
+3. Secondary places include all reported capacity in secondary, middle-deemed secondary and all-through schools. Capacity includes sixth form places.
+4. Number of pupils on roll for reception year group and above. Taken from the May school census for the relevant academic year, or gathered during the school capacity collection if census data was not available for a school.
+5. A school is identified as at or in excess of capacity when their pupil number on roll is greater than or equal to capacity.
+6. 2019/20 data not available due to the cancellation of the 2020 School Capacity survey due to COVID-19.
+7. Number of pupils in places that exceed their school's capacity is the difference between school places and number of pupils on roll, for schools where the number of pupils on roll is higher than the school’s reported capacity. Calculated at school level and then summed to national, regional or local authority level.
+
+
+Capacity - school
+
+Filename: capacity_school_200910-202324.csv
+Geographic levels: School
+Time period: 2009/10 to 2023/24
+Content summary: Total number of school places, which includes sixth form places and excludes nursery places. Includes number of pupils on roll from the May 2024 School Census.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                 |  Variable description
+----------------------------  |  ------------------------------------------------------------------------------------
+percent_pupils_over_capacity  |  Pupils in places that exceed their school's capacity as a percentage of total places
+percent_unfilled_places       |  Unfilled places as a percentage of total places
+pupils_on_roll                |  Number of pupils on roll
+pupils_over_capacity          |  Pupils in places that exceed their school's capacity
+school_places                 |  Number of school places
+unfilled_places               |  Unfilled places
+
+Footnotes:
+
+1. Includes mainstream state schools with capacity in any of the year groups from reception to year 11 on 1 May for the relevant academic year.
+2. Primary places include all reported capacity in primary and middle deemed primary schools. Capacity excludes nursery places.
+3. Secondary places include all reported capacity in secondary, middle-deemed secondary and all-through schools. Capacity includes sixth form places.
+4. Number of pupils on roll for reception year group and above. Taken from the May school census for the relevant academic year, or gathered during the school capacity collection if census data was not available for a school.
+5. 2019/20 data not available due to the cancellation of the 2020 School Capacity survey due to COVID-19.
+6. Number of pupils in places that exceed their school's capacity is the difference between school places and number of pupils on roll, for schools where the number of pupils on roll is higher than the school’s reported capacity. Calculated at school level and then summed to national, regional or local authority level.
+
+
+Local authority pupil forecasts - national, regional, local authority
+
+Filename: la-forecasts-pupils-hdc-hif_national-regional-la-pa_202324.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2023/24 to 2030/31
+Content summary: 2023/24 actual pupil numbers on roll from the January 2024 School Census and local authority forecasts of pupil numbers for 2024/25 onwards. Includes national curriculum year groups from reception to Year 13.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                      |  Variable description
+---------------------------------  |  -----------------------------------------------------------------------
+forecast_hdc_places                |  Forecast housing developing contribution (HDC) funded places
+forecast_hif_places                |  Forecast housing infrastructure fund (HIF) funded places
+nc_year_group                      |  Phase and year group
+pupil_forecast_and_202324_actuals  |  Local authority pupil forecasts (includes 2023/24 actual pupil numbers)
+
+Footnotes:
+
+1. Number of actual pupils on roll in 2023/24 taken from January 2024 School Census.
+2. Pupil forecasts are provided from 2024/25 to 2028/29 for primary (Reception to Year 6) and from 2024/25 to 2030/31 for secondary (Year 7 to Year 13).
+3. Number of pupils expected to be educated in state-funded mainstream schools, provided by local authorities. Forecasts include future school places funded by Housing Developer Contributions and Housing Infrastructure Fund.
+4. Future school places funded by Housing Developer Contributions are provided by local authorities on a cumulative basis.
+5. Future school places funded by Housing Infrastructure Fund are provided by local authorities on a cumulative basis.
+6. National pupil forecast figures will differ to the National Pupil Projections published annually by the Department for Education due to methodological and timing reasons. More information can be found in 'Methodology: School capacity'.
+
+
+Local authority planned changes to school places - national, regional, local authority
+
+Filename: la-planned-places_national-regional-la-pa-school_202324.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2024/25 to 2026/27
+Content summary: School places reported in summer 2024 as planned to be added or permanently removed from their school capacity. Includes only projects with firm plans for delivery. Includes national curriculum year groups from reception to Year 13.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name     |  Variable description
+----------------  |  -----------------------------------------------------------
+bulge_places      |  Bulge places (temporary additional places for large cohort)
+nc_year_group     |  Phase and year group
+places_to_add     |  Additional places (permanent)
+places_to_remove  |  Places to remove (permanent)
+
+Footnotes:
+
+1. Cumulative places reported by local authorities in summer 2024 as planned to be added or removed. Includes only projects with a high degree of certainty of going ahead, usually where funding has been committed.
+2. Bulge places are places used to accommodate a specific large cohort. They move through the school with this cohort. Additional places are permanent places that will not move through the school with a specific cohort.
+3. Excludes additional places and removal of school capacity planned from projects funded through DfE programmes, such as centrally funded Free Schools due to open.
+4. Includes sixth form places. Excludes nursery places.
+
+
+Estimates of future school place demand (places needed, spare places) - national, regional, local authority
+
+Filename: place-planning-estimates_national-regional-la-pa_202324.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2024/25 to 2030/31
+Content summary: Estimates of future school places needed to meet modelled demand, calculated at planning area level and aggregated to local authority, regional and national level. Estimates reflect the position reported by local authorities at May 2024.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                       |  Variable description
+----------------------------------  |  ---------------------------------------------------------------------------------------------
+additional_need_minus_spare_places  |  Estimated number of places needed: Additional need as positives and spare places as negatives
+additional_need_only                |  Estimated number of places needed: Additional need only
+nc_year_group                       |  Phase and year group
+
+Footnotes:
+
+1. Estimates reflect the position reported by local authorities as at May 2024, supplemented with DFE internal data on centrally funded programmes due to add or remove school places.
+2. Estimates are provided from 2024/25 to 2028/29 for primary (Reception to Year 6) and from 2024/25 to 2030/31 for secondary (Year 7 to Year 11).
+3. 'Estimated places needed: Additional need as positives and spare places as negatives' are not produced at a national and regional level because they would be unrepresentative of school place demand. They would suggest unrealistic levels of spare places, because demand in specific areas would be lost in the sum total.
+4. A description of how these estimates have been derived and how to interpret them is provided in the school place planning estimates technical guidance accompanying this release (see supporting files under 'Explore data and files’).
+
+
+Sixth form capacity - national, regional, local authority
+
+Filename: sixth-form-capacity_national-regional-la_201718-202324.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2017/18 to 2023/24
+Content summary: Total number of sixth form places as reported voluntarily by local authorities; sixth form pupil numbers on roll from the May 2024 School Census.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                              |  Variable description
+-----------------------------------------  |  --------------------------------------------------------------------
+reported_sixth_form_places                 |  Reported sixth form places
+schools_with_sixth_form_capacity_reported  |  Number of schools with reported sixth form places
+sixth_form_pupils_on_roll                  |  Sixth form pupils on roll in schools with reported sixth form places
+
+Footnotes:
+
+1. Includes mainstream state schools with pupils in year groups 12, 13 and 14. Excludes 16-19 only establishments.
+2. Sixth form pupils on roll taken from the May school census for the relevant academic years. In a small number of schools the sixth form pupil on roll may include pupils from separate providers, where no corresponding capacity can be reported for the school in SCAP.
+3. 2019/20 data not available due to the cancellation of the 2020 School Capacity survey due to COVID-19.
+
+
+Sixth form capacity - school
+
+Filename: sixth-form-capacity_school_201718-202324.csv
+Geographic levels: School
+Time period: 2017/18 to 2023/24
+Content summary: Number of sixth form places as reported voluntarily by local authorities; sixth form pupil numbers on roll from the May 2024 School Census.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name               |  Variable description
+--------------------------  |  --------------------------------------------------------------------
+reported_sixth_form_places  |  Reported sixth form places
+sixth_form_pupils_on_roll   |  Sixth form pupils on roll in schools with reported sixth form places
+total_pupils_on_roll        |  Number of pupils on roll
+total_school_places         |  Number of school places
+
+Footnotes:
+
+1. Number of pupils on roll for reception year group and above. Taken from the May school census for the relevant academic year, or gathered during the school capacity collection if census data was not available for a school.
+2. Includes mainstream state schools with pupils in year groups 12, 13 and 14. Excludes 16-19 only establishments.
+3. Sixth form pupils on roll taken from the May school census for the relevant academic years. In a small number of schools the sixth form pupil on roll may include pupils from separate providers, where no corresponding capacity can be reported for the school in SCAP.
+4. 2019/20 data not available due to the cancellation of the 2020 School Capacity survey due to COVID-19.
+
+
+Specialist provision capacity - national, regional, local authortiy
+
+Filename: specialist-provision_national-regional-la_202223-202324.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 to 2023/24
+Content summary: Total number of school places in special schools. This includes sixth form places and excludes nursery places. Includes number of pupils on roll from the May 2024 School Census.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  --------------------------------------------------------
+count_schools                                      |  Number of schools
+count_schools_with_primary_and_secondary_capacity  |  Number of schools with both primary and secondary places
+education_phase                                    |  School main phase
+primary_capacity                                   |  Number of primary places
+primary_pupils_on_roll                             |  Number of primary pupils on roll
+pupils_on_roll                                     |  Number of pupils on roll
+school_places                                      |  Number of school places
+secondary_capacity                                 |  Number of secondary places
+secondary_pupils_on_roll                           |  Number of secondary pupils on roll
+
+Footnotes:
+
+1. Number of pupils on roll for reception year group and above. Taken from the May school census for the relevant academic year, or gathered during the school capacity collection if census data was not available for a school.
+2. Schools defined as "primary" include primary and middle deemed primary schools. Capacity excludes nursery places. For middle schools, capacity has been spilt into primary and secondary.
+3. Schools defined as "secondary" include secondary, middle-deemed secondary and all-through schools. Capacity includes sixth form places. For middle and all through schools, capacity has been spilt into primary and secondary.
+
+
+Specialist provision capacity - school
+
+Filename: specialist-provision_school_202223-202324.csv
+Geographic levels: School
+Time period: 2022/23 to 2023/24
+Content summary: Total number of school places in special schools. This includes sixth form places and excludes nursery places. Includes number of pupils on roll from the May 2024 School Census.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name             |  Variable description
+------------------------  |  ----------------------------------
+primary_capacity          |  Number of primary school places
+primary_pupils_on_roll    |  Number of primary pupils on roll
+pupils_on_roll            |  Number of pupils on roll
+school_places             |  Number of school places
+secondary_capacity        |  Number of secondary school places
+secondary_pupils_on_roll  |  Number of secondary pupils on roll
+
+Footnotes:
+
+1. Number of pupils on roll for reception year group and above. Taken from the May school census for the relevant academic year, or gathered during the school capacity collection if census data was not available for a school.
+2. Schools defined as "primary" include primary and middle deemed primary schools. Capacity excludes nursery places. For middle schools, capacity has been spilt into primary and secondary.
+3. Schools defined as "secondary" include secondary, middle-deemed secondary and all-through schools. Capacity includes sixth form places. For middle and all through schools, capacity has been spilt into primary and secondary.
+
+
+Local authority specialist provision pupil forecasts - national, regional, local authority
+
+Filename: la-specialist-provision-forecasts-pupils_national-regional-la_202324.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2023/24 to 2030/31
+Content summary: 2023/24 actual pupil numbers on roll from the January 2024 School Census and local authority specialist provision forecasts of pupil numbers for 2024/25 onwards. Includes national curriculum year groups from reception to Year 13.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                      |  Variable description
+---------------------------------  |  -------------------------------
+education_phase                    |  School phase
+pupil_forecast_and_202324_actuals  |  Local authority pupil forecasts
+
+Footnotes:
+
+1. Pupil forecasts are provided from 2024/25 to 2028/29 for primary (Reception to Year 6) and from 2024/25 to 2030/31 for secondary (Year 7 to Year 13).
+
+
+Specialist provision capacity in mainstream schools - national, regional, local authority
+
+Filename: specialist-provision-in-mainstream_national-regional-la_202223-202324.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 to 2023/24
+Content summary: Total number of specialist provision places in mainstream schools. This includes sixth form places and excludes nursery places. Includes number of pupils on roll from the May 2024 School Census, SEN unit and resourced provision places.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ------------------------------------------------------------------
+count_schools                                      |  Number of schools
+count_schools_with_primary_and_secondary_capacity  |  Number of schools with both primary and secondary places
+education_phase                                    |  School main phase
+primary_resourced_provision_capacity               |  Primary resourced provision capacity
+primary_SEND_unit_capacity                         |  Primary special educational needs and disabilities unit capacity
+resourced_provision_capacity                       |  Resourced provision capacity
+secondary_resourced_provision_capacity             |  Secondary resourced provision capacity
+secondary_SEND_unit_capacity                       |  Secondary special educational needs and disabilities unit capacity
+SEND_unit_capacity                                 |  Special educational needs and disabilities unit capacity
+total_pupils_on_roll                               |  Number of school pupils on roll
+total_school_places                                |  Number of school places
+
+Footnotes:
+
+1. Number of pupils on roll for reception year group and above. Taken from the May school census for the relevant academic year, or gathered during the school capacity collection if census data was not available for a school.
+2. Schools defined as "primary" include primary and middle deemed primary schools. Capacity excludes nursery places. For middle schools, capacity has been spilt into primary and secondary.
+3. Schools defined as "secondary" include secondary, middle-deemed secondary and all-through schools. Capacity includes sixth form places. For middle and all through schools, capacity has been spilt into primary and secondary.
+
+
+Specialist provision capacity in mainstream schools - school
+
+Filename: specialist-provision-in-mainstream_school_202223-202324.csv
+Geographic levels: School
+Time period: 2022/23 to 2023/24
+Content summary: Total number of specialist provision places in mainstream schools. This includes sixth form places and excludes nursery places. Includes number of pupils on roll from the May 2024 School Census, SEN unit and resourced provision places.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                           |  Variable description
+--------------------------------------  |  ------------------------------------------------------------------
+primary_resourced_provision_capacity    |  Primary resourced provision capacity
+primary_SEND_unit_capacity              |  Primary special educational needs and disabilities unit capacity
+resourced_provision_capacity            |  Resourced provision capacity
+secondary_resourced_provision_capacity  |  Secondary resourced provision capacity
+secondary_SEND_unit_capacity            |  Secondary special educational needs and disabilities unit capacity
+SEND_unit_capacity                      |  Special educational needs and disabilities unit capacity
+total_pupils_on_roll                    |  Number of school pupils on roll
+total_school_places                     |  Number of school places
+
+Footnotes:
+
+1. Number of pupils on roll for reception year group and above. Taken from the May school census for the relevant academic year, or gathered during the school capacity collection if census data was not available for a school.
+2. Schools defined as "primary" include primary and middle deemed primary schools. Capacity excludes nursery places. For middle schools, capacity has been spilt into primary and secondary.
+3. Schools defined as "secondary" include secondary, middle-deemed secondary and all-through schools. Capacity includes sixth form places. For middle and all through schools, capacity has been spilt into primary and secondary.
